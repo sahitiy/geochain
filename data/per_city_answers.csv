@@ -1,0 +1,25 @@
+City,Region,Near Coast,Island,Desert Region,Mountainous,Tropical Climate,Climate Type,Big City,Small Town,Rural Area,Languages
+Amman,North,No,No,No,No,No,Dry,Yes,No,No,Arabic
+Amsterdam,West,Yes,No,No,No,No,Temperate,Yes,No,No,Dutch
+Austin,South,No,No,No,No,No,Temperate,Yes,No,No,English
+Bangkok,Central,Yes,No,No,No,Yes,Tropical,Yes,No,No,Thai
+Berlin,North East,No,No,No,No,No,Temperate,Yes,No,No,German
+Boston,North East,Yes,No,No,No,No,Continental,Yes,No,No,English
+Budapest,Central,No,No,No,No,No,Continental,Yes,No,No,Hungarian
+Copenhagen,East,Yes,No,No,No,No,Temperate,Yes,No,No,Danish
+Goa,West,Yes,No,No,No,Yes,Tropical,No,Yes,No,"Konkani, Marathi"
+Helsinki,South,Yes,No,No,No,No,Continental,Yes,No,No,Finnish
+London,South,Yes,No,No,No,No,Temperate,Yes,No,No,English
+Manila,Central,Yes,No,No,No,Yes,Tropical,Yes,No,No,"Filipino, English"
+Melbourne,South East,Yes,No,No,No,No,Temperate,Yes,No,No,English
+Moscow,West,No,No,No,No,No,Continental,Yes,No,No,Russian
+Nairobi,Central,No,No,No,Yes,No,Temperate,Yes,No,No,"Swahili, English"
+Ottawa,East,No,No,No,No,No,Continental,Yes,No,No,"English, French"
+Paris,North,No,No,No,No,No,Temperate,Yes,No,No,French
+Phoenix,South West,No,No,Yes,No,No,Dry,Yes,No,No,English
+San Francisco,West,Yes,No,No,Yes,No,Temperate,Yes,No,No,English
+Sao Paulo,South East,Yes,No,No,No,No,Temperate,Yes,No,No,Portuguese
+Tokyo,East,Yes,No,No,No,No,Temperate,Yes,No,No,Japanese
+Toronto,South,No,No,No,No,No,Continental,Yes,No,No,English
+Trondheim,Central,Yes,No,No,Yes,No,Continental,No,Yes,No,Norwegian
+Zurich,North,No,No,No,Yes,No,Temperate,Yes,No,No,"German, English"
