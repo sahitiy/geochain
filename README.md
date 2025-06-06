@@ -2,7 +2,7 @@
 
 **[[Paper](https://arxiv.org/abs/2506.00785)] [[HuggingFace](https://huggingface.co/datasets/sahitiy51/geochain)]**
 
-![](assets/geochain-teaser.png)  <!-- Note: You will need to replace this with your own teaser image -->
+![](assets/geochain-teaser.png)  
 
 <p align="justify">
 GeoChain is a large-scale benchmark introduced for evaluating step-by-step geographic reasoning in multimodal large language models (MLLMs). Leveraging 1.46 million Mapillary street-level images, GeoChain pairs each image with a 21-step chain-of-thought (CoT) question sequence, resulting in over 30 million Q&A pairs. These sequences are designed to guide models from coarse attributes to fine-grained localization, covering four key reasoning categories: visual, spatial, cultural, and precise geolocation, with annotations for difficulty. Images within the dataset are also enriched with semantic segmentation (150 classes) and a visual locatability score. Our benchmarking of contemporary MLLMs (including GPT-4.1 variants, Claude 3.7, and Gemini 2.5 variants) on a diverse 2,088-image subset reveals consistent challenges: models frequently exhibit weaknesses in visual grounding, display erratic reasoning, and struggle to achieve accurate localization, especially as reasoning complexity escalates. GeoChain offers a robust diagnostic methodology, critical for fostering significant advancements in complex geographic reasoning within MLLMs.
