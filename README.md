@@ -47,13 +47,14 @@ The full dataset generation pipeline can be executed as follows:
 If you find our work useful, please cite the following paper:
 
 ```bibtex
-@misc{yerramilli2025geochain,
+@misc{yerramilli2025geochainmultimodalchainofthoughtgeographic,
       title={GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning}, 
-      author={Sahiti Yerramilli and Author 2 and Author 3 and Author 4},
+      author={Sahiti Yerramilli and Nilay Pande and Rynaa Grover and Jayant Sravan Tamarapalli},
       year={2025},
-      eprint={YOUR_ARXIV_ID},
+      eprint={2506.00785},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.AI},
+      url={[https://arxiv.org/abs/2506.00785](https://arxiv.org/abs/2506.00785)}, 
 }
 ```
 
